@@ -1,0 +1,92 @@
+{
+  "full_name": "Kirti Nath Jha",
+  "name": "Kirti",
+  "current_role": "Technical Lead – Generative AI & Applied AI Solutions",
+  "company": "IBM India Pvt Ltd",
+  "location": "Bangalore, India",
+  "email": "kirtinathjha@yahoo.com",
+  "phone": "+91-81058-93458",
+  "linkedin": "linkedin.com/in/kirtinathjha",
+  "github": "github.com/KirtiJha",
+  "specialties": [
+    "Generative AI Solutions Architecture",
+    "RAG & Multi-Agent Systems Engineering",
+    "Model Context Protocol (MCP)",
+    "Full Stack & Cloud Modernization",
+    "AI-Driven Developer Productivity Tools",
+    "Scalable Application & System Design",
+    "Salesforce Development (Apex, LWC, SOQL)",
+    "Data Migration & Legacy Modernization"
+  ],
+  "technical_skills": {
+    "generative_ai": [
+      "LLMs (Llama, Mistral, Granite, OpenAI, Claude)",
+      "RAG Architectures",
+      "Multi-Agent Workflows",
+      "LangGraph",
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "Context Engineering",
+      "Vector Databases (Chroma, Faiss, Milvus)"
+    ],
+    "enterprise_platforms": [
+      "Salesforce (Apex, LWC, SOQL, AppExchange)",
+      "IBM WatsonX",
+      "AWS"
+    ],
+    "full_stack": [
+      "NodeJS",
+      "Angular",
+      "React",
+      "Next.js",
+      "Electron",
+      "TypeScript",
+      "Python",
+      "MongoDB"
+    ],
+    "infrastructure": [
+      "Docker",
+      "CI/CD",
+      "Observability",
+      "Cloud Cost Optimization"
+    ]
+  },
+  "years_experience": 13,
+  "education": [
+    {
+      "degree": "Master of Engineering",
+      "institution": "Jadavpur University, Kolkata",
+      "year": "2012",
+      "gpa": "8.28"
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Siliguri Institute of Technology, Siliguri",
+      "year": "2008",
+      "gpa": "8.52"
+    }
+  ],
+  "certifications": [
+    "IBM Certified Expert IT Specialist",
+    "OpenGroup Certified Master Technical Specialist",
+    "Salesforce Certified Platform App Builder",
+    "Salesforce Certified Platform Developer I",
+    "Salesforce CRM Analytics and Einstein Discovery Consultant",
+    "IBM Certified Developer Profession – Level 3 Expert"
+  ],
+  "key_projects": [
+    "ISC-CodeConnect - Multi-agent RAG system for Salesforce development",
+    "VectorForge - Embedding pipeline framework for vectorization",
+    "Fusion MCP Hub - Dynamic MCP server composition platform",
+    "LangGraph MCP Studio - Enterprise MCP development platform",
+    "DataFox - Modern desktop FTP client with AI-powered search",
+    "Salesforce MCP Ecosystem - 238+ AI tools integration"
+  ],
+  "awards": [
+    "Blue Core Mentor - IBM",
+    "Outstanding Innovation Award - IBM",
+    "Knowledge Sharing Super Champion - IBM",
+    "Managers Choice and Deep Skills Adder - IBM"
+  ]
+}

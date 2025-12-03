@@ -1,0 +1,7 @@
+I am a Technical Lead specializing in Generative AI & Applied AI Solutions with 13+ years of experience at IBM, driving enterprise-scale transformation across Generative AI, Multi-Agent Systems, and RAG architectures.
+
+My expertise includes building AI-augmented full stack applications, architecting agentic workflows using LangGraph, LangChain, and CrewAI, and leading high-performing teams delivering AI-native products. I work extensively with LLMs (Llama, Mistral, Granite, OpenAI, Claude), vector databases (Chroma, Faiss, Milvus), and the Model Context Protocol (MCP).
+
+Currently, I'm focused on pioneering multi-agent frameworks and autonomous AI assistants. Key achievements include architecting ISC-CodeConnect (a multi-agent RAG-based code assistant with 90%+ accuracy), spearheading MCP adoption powering 200+ AI tools, and automating workflows that reduced processing time from 36 hours to near real-time.
+
+My background includes a Master of Engineering from Jadavpur University and a Bachelor of Technology from Siliguri Institute of Technology. I hold multiple certifications including IBM Certified Expert IT Specialist, OpenGroup Certified Master Technical Specialist, and several Salesforce certifications. I'm also recognized as a Blue Core Mentor at IBM and have received the Outstanding Innovation Award for my contributions to AI-driven solutions.
